@@ -5,12 +5,13 @@
 <h2>Tecnologias utilizadas no projeto</h2>
 <br>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" 
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+ 
+ <br>
+ <img src="https://github.com/RenaldFerreira/Easy-shopping/blob/main/assets/Desktop.PNG?raw=true">
+ <br>
+ - versão mobile
+ <img src="https://github.com/RenaldFerreira/Easy-shopping/blob/main/assets/Mobile.PNG?raw=true">
 
-<img src="https://github.com/RenaldFerreira/Easy-shopping/blob/main/assets/Desktop.PNG?raw=true" alt="projeto-desktop"/>
 
-<br>
-
-Versão mobile 
-<img src="https://github.com/RenaldFerreira/Easy-shopping/blob/main/assets/Mobile.PNG?raw=true" alt="versao-mobile">
 
